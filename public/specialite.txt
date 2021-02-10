@@ -1,0 +1,37 @@
+Médecine interne
+Cardiologie
+Dermatologie
+Endocrinologie et maladies métaboliques
+Gastro-entérologie
+Néphrologie
+Pédiatrie
+Psychiatrie
+Neurologie
+Pneumologie
+Radiologie
+Rhumatologie
+Radiothérapie
+Réanimation médicale
+Anesthésie réanimation
+Médecine légale
+Oncologie médicale
+Maladies infectieuses
+Hématologie clinique
+Epidémiologie clinique
+Hygiène hospitalière
+Médecine du travail
+Médecine du sport
+Chirurgie générale
+Chirurgie pédiatrique
+Gynécologie obstétrique
+Neurochirurgie
+Ophtalmologie
+Oto-rhino-laryngologie
+Urologie
+Traumatologie orthopédique
+Chirurgie cancérologique
+Chirurgie thoracique
+Chirurgie cardio-vasculaire
+Stomatologie et chirurgie maxillo-faciale
+Chirurgie réparatrice et plastique
+Chirurgie vasculaire péripherique
