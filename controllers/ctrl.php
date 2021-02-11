@@ -21,13 +21,13 @@ class Ctrl {
      * password for sending mails
      * @var   string
      */
-    const PASSWORD = 'jsam@2018';
+    const PASSWORD = '';
 
     /**
      * email for sending mails
      * @var   string
      */
-    const FROM = 'allspitfire19@gmail.com';
+    const FROM = '';
 
     /**
      * @brief all action $_GET
